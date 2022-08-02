@@ -1,1 +1,2 @@
 Readme File
+pridany text
